@@ -1,0 +1,2 @@
+# Decoding-Algospeak-Comparing-Traditional-ML-and-LLM-for-Detecting-Coded-Language-on-Social-Media
+The project aims to compare the performance of traditional Machine Learning (ML) models and Large Language Models (LLMs) in detecting Algospeak. It evaluates whether advanced models, capable of understanding meaning in context, can outperform classical algorithms in identifying hidden or coded expressions.
